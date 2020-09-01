@@ -1,0 +1,15 @@
+{
+  "name": "Interview-preparation",
+  "version": "1.0.0",
+  "description": "Welcome to the interview preparation REPL. This REPL will be used to post algorithms that we as a group can work on. There are a few pointers in how to add a new problem or create new files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.0"
+  }
+}
