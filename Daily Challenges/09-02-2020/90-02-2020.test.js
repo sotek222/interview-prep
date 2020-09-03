@@ -12,4 +12,8 @@ describe('maxProfit', () => {
   it('returns the maximum profit for [7,6,4,3,1]', () => {
      expect(maxProfit([7,6,4,3,1])).toBe(0);
   });
+
+  it('returns the maximum profit for [7,1,5,7,3,6,4]', () => {
+    expect(maxProfit([7,1,5,7,3,6,4])).toBe(9);
+  });
 });
